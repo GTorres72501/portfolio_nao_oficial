@@ -1,0 +1,2 @@
+## Challenge Front-End Portfólio
+O projeto é um portfólio responsivo pessoal **não oficial**, desenvolvido para a entrega de um dos três projetos da fase de especialização em Front-End do curso de programação do programa ONE (Oracle Next Education), em conjunto com a Alura.
